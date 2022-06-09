@@ -18,4 +18,4 @@ spring:
 
 application:
   description: Projeto criado para bootcamp dto - hiroku
-  version: 3.2
+  version: 4
