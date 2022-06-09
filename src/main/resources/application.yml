@@ -6,9 +6,9 @@ server:
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: postgres://ifjqnnsgnxzbfh:0c531407290b6f49a853e65cec25ef6af31776113e4a5c83488341675bfa9f89@ec2-34-198-186-145.compute-1.amazonaws.com:5432/d7n0tc7utrb7gv
-    username: ifjqnnsgnxzbfh
-    password: 0c531407290b6f49a853e65cec25ef6af31776113e4a5c83488341675bfa9f89
+    url: postgres://cyddxdsqmcmqnx:4c983b639eeb1cd1f0635e83e721a66110146461f8882b9aecb7c3a4815264b4@ec2-3-226-163-72.compute-1.amazonaws.com:5432/d2ml4ni0k1qiq2
+    username: cyddxdsqmcmqnx
+    password: 4c983b639eeb1cd1f0635e83e721a66110146461f8882b9aecb7c3a4815264b4
     jpa:
       show-sql: true
       database-platform: org.hibernate.dialect.PostgreSQLDialect
@@ -18,4 +18,4 @@ spring:
 
 application:
   description: Projeto criado para bootcamp dto - hiroku
-  version: 3.1
+  version: 3.2
