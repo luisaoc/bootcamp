@@ -15,5 +15,5 @@ spring:
       hibernate:
         ddl-auto: none
 application:
-  description: Projeto criado para bootcamp dto
-  version: 2.0
+  description: Projeto criado para bootcamp dto - hiroku
+  version: 3.0
