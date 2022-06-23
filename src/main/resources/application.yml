@@ -17,5 +17,5 @@ spring:
         ddl-auto: none
 
 application:
-  description: Projeto criado para bootcamp dto - hiroku
+  description: Projeto criado para bootcamp dto - heroku
   version: 4
